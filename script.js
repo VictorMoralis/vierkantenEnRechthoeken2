@@ -1,10 +1,10 @@
-$("#kleur").click(function(){
+$(".klick").click(function(){
     $(this).removeClass("w3-red").addClass("w3-orange");
 });
 
-$("#kleur2").dblclick(function(){
+$(".doubleclick").dblclick(function(){
     $(this).removeClass("w3-red").addClass("w3-pink");
 });
-$("#hover").hover(function(){
+$(".hover").hover(function(){
     $(this).css("background-color" "purple");
 });
