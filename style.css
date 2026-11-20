@@ -1,12 +1,16 @@
 .vierkant{
     width: 150px;
     height: 150px;
+    float: left;
+    margin: 10px;
     text-align:center;
     line-height: 50px;
 }
 .rechthoek{
-    width: 250px;
+    width: 150px;
     height: 150px;
+    float: left;
+    margin: 10px;
     text-align:center;
     line-height: 50px;
 }
